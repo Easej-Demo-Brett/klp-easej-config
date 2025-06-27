@@ -5,7 +5,7 @@ version: 1.0
 app:
   # Set the build version ID to deploy for the "Build, deploy, and run" 
   # scenario. If the value is set to an empty string ("") the application
-  # is not deployed.
+  # is not deployed..
   # KLP Buid ID
   version: "6e962613-a82e-4629-808b-a914ca71a810"
   
